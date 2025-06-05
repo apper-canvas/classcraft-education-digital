@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1",
+    "name": "Physics Unit Test 1",
+    "subject": "Physics",
+    "date": "2024-12-10",
+    "totalMarks": 100,
+    "scores": [
+      {
+        "studentId": "1",
+        "marksObtained": 85
+      },
+      {
+        "studentId": "2",
+        "marksObtained": 92
+      },
+      {
+        "studentId": "3",
+        "marksObtained": 78
+      },
+      {
+        "studentId": "4",
+        "marksObtained": 88
+      },
+      {
+        "studentId": "5",
+        "marksObtained": 94
+      },
+      {
+        "studentId": "6",
+        "marksObtained": 82
+      },
+      {
+        "studentId": "7",
+        "marksObtained": 90
+      },
+      {
+        "studentId": "8",
+        "marksObtained": 87
+      },
+      {
+        "studentId": "9",
+        "marksObtained": 91
+      },
+      {
+        "studentId": "10",
+        "marksObtained": 89
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Chemistry Organic Test",
+    "subject": "Chemistry",
+    "date": "2024-12-15",
+    "totalMarks": 80,
+    "scores": [
+      {
+        "studentId": "1",
+        "marksObtained": 72
+      },
+      {
+        "studentId": "2",
+        "marksObtained": 76
+      },
+      {
+        "studentId": "3",
+        "marksObtained": 68
+      },
+      {
+        "studentId": "4",
+        "marksObtained": 74
+      },
+      {
+        "studentId": "5",
+        "marksObtained": 78
+      },
+      {
+        "studentId": "6",
+        "marksObtained": 70
+      },
+      {
+        "studentId": "7",
+        "marksObtained": 75
+      },
+      {
+        "studentId": "8",
+        "marksObtained": 73
+      },
+      {
+        "studentId": "9",
+        "marksObtained": 77
+      },
+      {
+        "studentId": "10",
+        "marksObtained": 71
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Mathematics Calculus Quiz",
+    "subject": "Mathematics",
+    "date": "2024-12-20",
+    "totalMarks": 50,
+    "scores": [
+      {
+        "studentId": "1",
+        "marksObtained": 45
+      },
+      {
+        "studentId": "2",
+        "marksObtained": 48
+      },
+      {
+        "studentId": "3",
+        "marksObtained": 42
+      },
+      {
+        "studentId": "4",
+        "marksObtained": 46
+      },
+      {
+        "studentId": "5",
+        "marksObtained": 49
+      },
+      {
+        "studentId": "6",
+        "marksObtained": 44
+      },
+      {
+        "studentId": "7",
+        "marksObtained": 47
+      },
+      {
+        "studentId": "8",
+        "marksObtained": 43
+      },
+      {
+        "studentId": "9",
+        "marksObtained": 48
+      },
+      {
+        "studentId": "10",
+        "marksObtained": 45
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Biology Cell Structure Test",
+    "subject": "Biology",
+    "date": "2024-12-25",
+    "totalMarks": 75,
+    "scores": [
+      {
+        "studentId": "1",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "2",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "3",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "4",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "5",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "6",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "7",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "8",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "9",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "10",
+        "marksObtained": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "English Literature Analysis",
+    "subject": "English",
+    "date": "2024-12-28",
+    "totalMarks": 60,
+    "scores": [
+      {
+        "studentId": "1",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "2",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "3",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "4",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "5",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "6",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "7",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "8",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "9",
+        "marksObtained": 0
+      },
+      {
+        "studentId": "10",
+        "marksObtained": 0
+      }
+    ]
+  }
+]

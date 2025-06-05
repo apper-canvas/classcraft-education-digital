@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "title": "Physics Mechanics Problem Set",
+    "description": "Solve problems related to Newton's laws of motion and energy conservation. Include detailed solutions with proper diagrams and calculations.",
+    "dueDate": "2024-12-15",
+    "submissions": [
+      {
+        "studentId": "1",
+        "status": "submitted",
+        "submittedDate": "2024-12-12"
+      },
+      {
+        "studentId": "2",
+        "status": "submitted",
+        "submittedDate": "2024-12-14"
+      },
+      {
+        "studentId": "3",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "4",
+        "status": "submitted",
+        "submittedDate": "2024-12-13"
+      },
+      {
+        "studentId": "5",
+        "status": "submitted",
+        "submittedDate": "2024-12-11"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Chemistry Lab Report - Titration",
+    "description": "Write a comprehensive lab report on acid-base titration experiment. Include methodology, observations, calculations, and conclusions.",
+    "dueDate": "2024-12-20",
+    "submissions": [
+      {
+        "studentId": "1",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "2",
+        "status": "submitted",
+        "submittedDate": "2024-12-18"
+      },
+      {
+        "studentId": "3",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "4",
+        "status": "submitted",
+        "submittedDate": "2024-12-19"
+      },
+      {
+        "studentId": "5",
+        "status": "pending",
+        "submittedDate": null
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mathematics Derivative Applications",
+    "description": "Solve application problems using derivatives. Focus on optimization problems, related rates, and curve sketching.",
+    "dueDate": "2024-12-22",
+    "submissions": [
+      {
+        "studentId": "1",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "2",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "3",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "4",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "5",
+        "status": "pending",
+        "submittedDate": null
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Biology Ecosystem Research Project",
+    "description": "Research and present on a specific ecosystem. Include biodiversity, food chains, environmental factors, and human impact analysis.",
+    "dueDate": "2024-12-30",
+    "submissions": [
+      {
+        "studentId": "1",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "2",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "3",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "4",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "5",
+        "status": "pending",
+        "submittedDate": null
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "English Creative Writing Assignment",
+    "description": "Write a short story or essay on the theme of 'Change and Growth'. Minimum 1000 words with proper structure and creative elements.",
+    "dueDate": "2025-01-05",
+    "submissions": [
+      {
+        "studentId": "1",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "2",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "3",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "4",
+        "status": "pending",
+        "submittedDate": null
+      },
+      {
+        "studentId": "5",
+        "status": "pending",
+        "submittedDate": null
+      }
+    ]
+  }
+]
